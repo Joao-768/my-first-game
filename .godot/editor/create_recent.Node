@@ -1,4 +1,6 @@
 Label
+Button
+TextureRect
 Node
 AnimationPlayer
 AudioStreamPlayer2D
@@ -10,5 +12,3 @@ AnimatedSprite2D
 Timer
 Sprite2D
 AnimatableBody2D
-TileMap
-StaticBody2D
